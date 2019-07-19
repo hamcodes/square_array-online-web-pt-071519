@@ -3,4 +3,3 @@ def square_array(array)
   array.each { |number| squared_array <<  num ** 2 }
   square_array
 end
-end
